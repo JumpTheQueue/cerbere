@@ -1,0 +1,15 @@
+{
+  "name": "cerbere",
+  "version": "1.0.0",
+  "description": "Authentication, fast and secure",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JumpTheQueue/cerbere.git"
+  },
+  "author": "JumpTheQueue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JumpTheQueue/cerbere/issues"
+  },
+  "homepage": "https://github.com/JumpTheQueue/cerbere#readme"
+}
